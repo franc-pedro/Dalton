@@ -5,4 +5,7 @@
 - **Motor Driver**
    - Pololu Dual VNH5019 Motor Driver - https://www.pololu.com/product/2502
 - **Arduino Mega**
-
+- **Pixy2 camera**
+- **Power suply**
+   - 4x18650 Battery
+   - Step-down LM2596
