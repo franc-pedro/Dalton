@@ -9,3 +9,4 @@
 - **Power supply**
    - 4x18650 Battery
    - Step-down LM2596
+- **NeoPixel** - https://www.adafruit.com/product/1734
